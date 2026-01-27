@@ -1,0 +1,15 @@
+# Video files (served from Cloudflare tunnel)
+*.mp4
+*.mov
+*.avi
+*.webm
+
+# Media folders
+Референсы/
+Интеграции/
+Стримеры/
+media/
+
+# System files
+.DS_Store
+Thumbs.db
